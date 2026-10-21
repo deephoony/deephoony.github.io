@@ -196,7 +196,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</div>
-      <div class="author">Hyuk-Gi Lee, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="author"><a href="https://komkmm.github.io/">Hyuk-Gi Lee</a>, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
       <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
     </li>
