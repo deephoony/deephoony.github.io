@@ -124,7 +124,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
   <strong>
     <span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>1 Conference ·
     <span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>1 Journal ·
-    <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>1 Workshop ·
+    <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>2 Workshops ·
     <span class="pub-marker pub-book" role="img" aria-label="Book"></span>1 Book ·
     <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>9 Under Review
   </strong>
@@ -193,6 +193,12 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="author">Kisung Shin, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/CL4FMAgents/Authors&amp;referrer=%5BHomepage%5D(%2F)"><em>NeurIPS 2026 Workshop CL4FMAgents</em></a></div>
       <div class="links"><a class="btn btn-sm z-depth-0" href="https://openreview.net/pdf?id=UBL0WZFVWy" role="button">PDF</a></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</div>
+      <div class="author">Hyuk-Gi Lee, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-book" role="img" aria-label="Book"></span>Meta-Learning for Everyone: Building Few-Shot Learning Models and Fast Reinforcement Learning Agents with PyTorch</div>
