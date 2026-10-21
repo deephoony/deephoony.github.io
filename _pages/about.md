@@ -100,7 +100,7 @@ I am a Ph.D. candidate in the Department of [Computer Science and Engineering](h
 
 My research focuses on how reinforcement-learning agents can learn to learn: building useful task representations, generalizing across tasks, and adapting quickly to unfamiliar environments. I am especially interested in meta-reinforcement learning and offline reinforcement learning, where I study task representations that stay reliable as the task changes. I also have a strong interest in continual reinforcement learning and out-of-distribution generalization.
 
-Before beginning my Ph.D., I worked as a researcher at the AI Institute of Seoul National University and received my B.S. in Computer Science and Engineering from [Dongguk University](https://www.dongguk.edu/eng/main).
+Before beginning my Ph.D., I worked as a researcher at the [AI Institute of Seoul National University (AIIS)](https://aiis.snu.ac.kr/eng/index_new.php) and received my B.S. in Computer Science and Engineering from [Dongguk University](https://www.dongguk.edu/eng/main).
 
 Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlos Alcaraz](https://www.instagram.com/carlitosalcarazz/) in tennis and [Shin Jin-seo](https://en.wikipedia.org/wiki/Shin_Jin-seo) in Go. If you enjoy either game and would like to play, please feel free to reach out. I would be happy to meet you on the court or over the board! 😊
 
