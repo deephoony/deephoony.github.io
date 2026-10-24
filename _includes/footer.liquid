@@ -1,0 +1,26 @@
+{%- comment -%}
+Local override of the al-folio footer.
+
+The gem's version prints "© Copyright <year> <first> <middle> <last>. <footer_text>"
+and emits the empty middle/last name fields as stray whitespace before the period.
+This keeps a single clean line instead. Because this file shadows the one in
+al_folio_core, it no longer receives theme updates; re-check it after a major
+al-folio upgrade.
+{%- endcomment -%}
+
+{% capture footer_contents %}
+  &copy; {{ site.time | date: '%Y' }}
+  {{- ' ' }}{{ site.first_name }}
+  {%- if site.middle_name != blank %} {{ site.middle_name }}{% endif %}
+  {%- if site.last_name != blank %} {{ site.last_name }}{% endif %}
+{% endcapture %}
+
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">{{ footer_contents }}</div>
+  </footer>
+{% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="container">{{ footer_contents }}</div>
+  </footer>
+{% endif %}

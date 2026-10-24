@@ -10,7 +10,7 @@ contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. candidate in Computer Science and Engineering at Seoul National University,
   working on meta-reinforcement learning and offline reinforcement learning.
-footer_text: Built with al-folio. Hosted on GitHub Pages.
+footer_text: # the footer is rendered by _includes/footer.liquid
 keywords: offline reinforcement learning, multi-task reinforcement learning, meta-learning, continual reinforcement learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
