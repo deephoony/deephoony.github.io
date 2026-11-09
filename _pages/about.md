@@ -124,7 +124,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
   <strong>
     <span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>1 Conference ·
     <span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>1 Journal ·
-    <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>2 Workshops ·
+    <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>3 Workshops ·
     <span class="pub-marker pub-book" role="img" aria-label="Book"></span>1 Book ·
     <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>9 Under Review
   </strong>
@@ -163,8 +163,8 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
-      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Blind Spots of Quality Metrics for Unobserved Regions in SDR-to-HDR Video</div>
-      <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>LiBRA: Lightweight Latent Bracketing for Region-Aware HDR Video</div>
+      <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, Donghoon Cha, Bomseok Park, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
@@ -187,6 +187,11 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
       <div class="links"><a class="btn btn-sm z-depth-0" href="https://arxiv.org/abs/2610.15428" role="button">PDF</a><a class="btn btn-sm z-depth-0" href="https://github.com/deephoony/plato" role="button">Code</a></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Blind Spots of Quality Metrics for Unobserved Regions in SDR-to-HDR Video</div>
+      <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><em>WACV 2027 Workshop WVAQ</em></div>
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Sign and Magnitude: Two Aspects of Parameter Drift in Continual Learning</div>
