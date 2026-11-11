@@ -182,7 +182,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
-      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Fixed-Rank Subspace Protection with Neuron Recycling for Task-Free Continual Learning</div>
+      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Why Subspace Protection Needs a Fixed Rank and Neuron Recycling in Task-Free Continual Learning</div>
       <div class="author">Kisung Shin, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
     </li>
