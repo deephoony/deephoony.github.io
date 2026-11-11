@@ -133,6 +133,40 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
 <div class="publications">
   <ol class="bibliography">
     <li>
+      <div class="title"><span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning</div>
+      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://arxiv.org/abs/2610.15428" role="button">PDF</a><a class="btn btn-sm z-depth-0" href="https://github.com/deephoony/plato" role="button">Code</a></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>Drift-Gated Ensemble Pessimism for Offline Meta-Reinforcement Learning Robust to Behavior-Policy Shift</div>
+      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><em>Journal of KIISE (JOK)</em>, 2026</div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Blind Spots of Quality Metrics for Unobserved Regions in SDR-to-HDR Video</div>
+      <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><em>WACV 2027 Workshop WVAQ</em></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Sign and Magnitude: Two Aspects of Parameter Drift in Continual Learning</div>
+      <div class="author">Kisung Shin, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/CL4FMAgents/Authors&amp;referrer=%5BHomepage%5D(%2F)"><em>NeurIPS 2026 Workshop CL4FMAgents</em></a></div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://openreview.net/pdf?id=UBL0WZFVWy" role="button">PDF</a></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</div>
+      <div class="author"><a href="https://komkmm.github.io/">Hyuk-Gi Lee</a>, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-book" role="img" aria-label="Book"></span>Meta-Learning for Everyone: Building Few-Shot Learning Models and Fast Reinforcement Learning Agents with PyTorch</div>
+      <div class="author"><strong>Chang-Hoon Jeong</strong>, <a href="https://www.linkedin.com/in/seung-hyun-lee-abb99a109/">Seung-Hyun Lee</a>, Dongmin Lee, Luna Sung-eun Jang, <a href="https://www.seungjaeryanlee.com/">Seungjae Ryan Lee</a>, and Seungje Yoon; reviewed by <a href="https://sites.google.com/view/sungjoon-choi/home?authuser=0">Sungjoon Choi</a></div>
+      <div class="periodical"><em>Wikibooks</em>, 2022</div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://wikibook.co.kr/metalearning/" role="button">Book</a></div>
+    </li>
+    <li>
       <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Trust, but Verify: Test-Time Task Inference in Offline Meta-Reinforcement Learning</div>
       <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin<sup>*</sup>, Hanwool Sul<sup>*</sup>, Luna Sung-eun Jang<sup>*</sup>, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
@@ -176,40 +210,6 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Latent-Conservative Optimization for Robust Offline Meta-Reinforcement Learning</div>
       <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, <a href="https://yeonjisong.github.io/">Yeon-Ji Song</a>, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>Drift-Gated Ensemble Pessimism for Offline Meta-Reinforcement Learning Robust to Behavior-Policy Shift</div>
-      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><em>Journal of KIISE (JOK)</em>, 2026</div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning</div>
-      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
-      <div class="links"><a class="btn btn-sm z-depth-0" href="https://arxiv.org/abs/2610.15428" role="button">PDF</a><a class="btn btn-sm z-depth-0" href="https://github.com/deephoony/plato" role="button">Code</a></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Blind Spots of Quality Metrics for Unobserved Regions in SDR-to-HDR Video</div>
-      <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><em>WACV 2027 Workshop WVAQ</em></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Sign and Magnitude: Two Aspects of Parameter Drift in Continual Learning</div>
-      <div class="author">Kisung Shin, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/CL4FMAgents/Authors&amp;referrer=%5BHomepage%5D(%2F)"><em>NeurIPS 2026 Workshop CL4FMAgents</em></a></div>
-      <div class="links"><a class="btn btn-sm z-depth-0" href="https://openreview.net/pdf?id=UBL0WZFVWy" role="button">PDF</a></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>C<sup>3</sup>: Contrastive Learning for Cross-domain Correspondence in Few-shot Image Generation</div>
-      <div class="author"><a href="https://komkmm.github.io/">Hyuk-Gi Lee</a>, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
-      <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-book" role="img" aria-label="Book"></span>Meta-Learning for Everyone: Building Few-Shot Learning Models and Fast Reinforcement Learning Agents with PyTorch</div>
-      <div class="author"><strong>Chang-Hoon Jeong</strong>, <a href="https://www.linkedin.com/in/seung-hyun-lee-abb99a109/">Seung-Hyun Lee</a>, Dongmin Lee, Luna Sung-eun Jang, <a href="https://www.seungjaeryanlee.com/">Seungjae Ryan Lee</a>, and Seungje Yoon; reviewed by <a href="https://sites.google.com/view/sungjoon-choi/home?authuser=0">Sungjoon Choi</a></div>
-      <div class="periodical"><em>Wikibooks</em>, 2022</div>
-      <div class="links"><a class="btn btn-sm z-depth-0" href="https://wikibook.co.kr/metalearning/" role="button">Book</a></div>
     </li>
   </ol>
 </div>
