@@ -122,16 +122,22 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
 
 <p>
   <strong>
+    <span class="pub-marker pub-book" role="img" aria-label="Book"></span>1 Book ·
     <span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>1 Conference ·
     <span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>1 Journal ·
     <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>3 Workshops ·
-    <span class="pub-marker pub-book" role="img" aria-label="Book"></span>1 Book ·
     <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>9 Under Review
   </strong>
 </p>
 
 <div class="publications">
   <ol class="bibliography">
+    <li>
+      <div class="title"><span class="pub-marker pub-book" role="img" aria-label="Book"></span>Meta-Learning for Everyone: Building Few-Shot Learning Models and Fast Reinforcement Learning Agents with PyTorch</div>
+      <div class="author"><strong>Chang-Hoon Jeong</strong>, <a href="https://www.linkedin.com/in/seung-hyun-lee-abb99a109/">Seung-Hyun Lee</a>, Dongmin Lee, Luna Sung-eun Jang, <a href="https://www.seungjaeryanlee.com/">Seungjae Ryan Lee</a>, and Seungje Yoon; reviewed by <a href="https://sites.google.com/view/sungjoon-choi/home?authuser=0">Sungjoon Choi</a></div>
+      <div class="periodical"><em>Wikibooks</em>, 2022</div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://wikibook.co.kr/metalearning/" role="button">Book</a></div>
+    </li>
     <li>
       <div class="title"><span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning</div>
       <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
@@ -159,12 +165,6 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="author"><a href="https://komkmm.github.io/">Hyuk-Gi Lee</a>, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
       <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-book" role="img" aria-label="Book"></span>Meta-Learning for Everyone: Building Few-Shot Learning Models and Fast Reinforcement Learning Agents with PyTorch</div>
-      <div class="author"><strong>Chang-Hoon Jeong</strong>, <a href="https://www.linkedin.com/in/seung-hyun-lee-abb99a109/">Seung-Hyun Lee</a>, Dongmin Lee, Luna Sung-eun Jang, <a href="https://www.seungjaeryanlee.com/">Seungjae Ryan Lee</a>, and Seungje Yoon; reviewed by <a href="https://sites.google.com/view/sungjoon-choi/home?authuser=0">Sungjoon Choi</a></div>
-      <div class="periodical"><em>Wikibooks</em>, 2022</div>
-      <div class="links"><a class="btn btn-sm z-depth-0" href="https://wikibook.co.kr/metalearning/" role="button">Book</a></div>
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Trust, but Verify: Test-Time Task Inference in Offline Meta-Reinforcement Learning</div>
