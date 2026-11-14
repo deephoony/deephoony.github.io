@@ -153,6 +153,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Blind Spots of Quality Metrics for Unobserved Regions in SDR-to-HDR Video</div>
       <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>WACV 2027 Workshop WVAQ</em></div>
+      <div class="links"><a class="btn btn-sm z-depth-0" href="https://openreview.net/pdf?id=nD7vpz1hdA" role="button">PDF</a></div>
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>Sign and Magnitude: Two Aspects of Parameter Drift in Continual Learning</div>
