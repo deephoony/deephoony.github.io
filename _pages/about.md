@@ -198,7 +198,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
-      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>LiBRA: Lightweight Latent Bracketing for Region-Aware HDR Video</div>
+      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>LiBRA: Lightweight Latent Bracketing for HDR Video Generation</div>
       <div class="author">Hanwool Sul, <strong>Chang-Hoon Jeong</strong>, Kisung Shin, Donghoon Cha, Bomseok Park, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
     </li>
