@@ -126,7 +126,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
     <span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>1 Conference ·
     <span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>1 Journal ·
     <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>3 Workshops ·
-    <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>9 Under Review
+    <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>8 Under Review
   </strong>
 </p>
 
@@ -166,11 +166,6 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
       <div class="author"><a href="https://komkmm.github.io/">Hyuk-Gi Lee</a>, <a href="https://heilaboratory.github.io/team/gckang">Gi-Cheon Kang</a>, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><a href="https://ctrlgenworkshop.github.io/"><em>NeurIPS 2021 Workshop CtrlGen</em></a></div>
       <div class="links"><a class="btn btn-sm z-depth-0" href="https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf" role="button">PDF</a></div>
-    </li>
-    <li>
-      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Trust, but Verify: Test-Time Task Inference in Offline Meta-Reinforcement Learning</div>
-      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin<sup>*</sup>, Hanwool Sul<sup>*</sup>, Luna Sung-eun Jang<sup>*</sup>, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
-      <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
       <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>What In-Context Reinforcement Learners Infer About Unseen Tasks</div>
