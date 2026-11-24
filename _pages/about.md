@@ -126,7 +126,7 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
     <span class="pub-marker pub-conference" role="img" aria-label="Conference"></span>1 Conference ·
     <span class="pub-marker pub-journal" role="img" aria-label="Journal"></span>1 Journal ·
     <span class="pub-marker pub-workshop" role="img" aria-label="Workshop"></span>3 Workshops ·
-    <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>9 Under Review
+    <span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>10 Under Review
   </strong>
 </p>
 
@@ -200,6 +200,11 @@ Outside research, I play tennis 🎾 and Go ⚫⚪, and I am a big fan of [Carlo
     <li>
       <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Where Does Forgetting Live in Actor-Critic? Component-Wise Diagnosis and Targeted Protection in Continual Reinforcement Learning</div>
       <div class="author">Kisung Shin, <strong>Chang-Hoon Jeong</strong>, Hanwool Sul, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
+      <div class="periodical"><em>Under Review</em></div>
+    </li>
+    <li>
+      <div class="title"><span class="pub-marker pub-review" role="img" aria-label="Under Review"></span>Out-of-Distribution Failure in Offline Meta-Reinforcement Learning: Diagnosis and Test-Time Remedy</div>
+      <div class="author"><strong>Chang-Hoon Jeong</strong>, Kisung Shin<sup>*</sup>, Hanwool Sul<sup>*</sup>, Luna Sung-eun Jang<sup>*</sup>, and <a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Byoung-Tak Zhang</a><sup>&dagger;</sup></div>
       <div class="periodical"><em>Under Review</em></div>
     </li>
     <li>
